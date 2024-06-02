@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2024-12-31",
+    "amount": 100,
+    "base_currency": "EUR",
+    "target_currency": "BGN",
+    "converted_amount": 195.26
+  },
+  {
+    "date": "2024-12-31",
+    "amount": 100,
+    "base_currency": "EUR",
+    "target_currency": "BGN",
+    "converted_amount": 195.26
+  }
+]
